@@ -10,7 +10,13 @@
       "chakra": "Crown"
     },
     "healing": "Smoky quartz the perfect stone for people who constantly find themselves with a wandering mind and an inability to focus. Smoky Quartz is here to assist in not only clearing your mind but to allow you to be more level headed.",
-    "mining": "•Africa •Australia •Switzerland •USA •Brazil"
+    "mining": "•Africa •Australia •Switzerland •USA •Brazil",
+    "physical": {
+      "hardness": 7,
+      "composition": "Silicon Dioxide",
+      "family": "Quartz",
+      "luster": "Vitreous"
+    }
   },
   {
     "name": "Obsidian",
@@ -23,7 +29,13 @@
       "chakra": "Root"
     },
     "healing": "Obsidian has powerful grounding frequencies and will heavily assist in psychic protection when needed, sealing the aura and removing energetic attachments. This protective shield enables one to go back into past lives for healing and to work on ancestral and family lines.",
-    "mining": "•USA •Japan •Hungary •Mexico •Iceland"
+    "mining": "•USA •Japan •Hungary •Mexico •Iceland",
+    "physical": {
+      "hardness": 7,
+      "composition": "Silicon Dioxide",
+      "family": "Quartz",
+      "luster": "Vitreous"
+    }
   },
   {
     "name": "Malachite",
@@ -36,7 +48,13 @@
       "chakra": "Heart."
     },
     "healing": "Malachite absorbs negative energies and pollutants from the atmosphere and body. It encourages risk-taking and change, breaks unwanted ties and outworn patterns, and teaches how to take responsibility for one's actions.",
-    "mining": "•Zambia •Mexico •Gabon •Congo"
+    "mining": "•Zambia •Mexico •Gabon •Congo",
+    "physical": {
+      "hardness": 7,
+      "composition": "Silicon Dioxide",
+      "family": "Quartz",
+      "luster": "Vitreous"
+    }
   },
   {
     "name": "Tigers Eye",
@@ -49,7 +67,13 @@
       "chakra": "Solar Plexus"
     },
     "healing": "It is believed that the Tigers Eyes vigor helps its bearer to break free from the latches of sorrow and resentment and eventually pushes you to positivity. It is also very effective for those who feel like they are going nowhere.",
-    "mining": "•USA •China •Namibia •South Africa"
+    "mining": "•USA •China •Namibia •South Africa",
+    "physical": {
+      "hardness": 7,
+      "composition": "Silicon Dioxide",
+      "family": "Quartz",
+      "luster": "Vitreous"
+    }
   },
   {
     "name": "Lapis Lazuli",
@@ -62,6 +86,31 @@
       "chakra": "Heart"
     },
     "healing": "The energy of the Lapis Lazuli meaning will help you discover your authentic self when you connect with its deep well of wisdom. By boosting your intuition and expanding your mental awareness, the Lapis Lazuli crystal meaning shows you how to access the knowledge and power you have within you.",
-    "mining": "•Northeast Afghanistan •Russia •Chile"
+    "mining": "•Northeast Afghanistan •Russia •Chile",
+    "physical": {
+      "hardness": 7,
+      "composition": "Silicon Dioxide",
+      "family": "Quartz",
+      "luster": "Vitreous"
+    }
+  },
+  {
+    "name": "Rose Quartz",
+    "purpose": "Kindness | Patience | Romance",
+    "url": "./images/rose-quartz.jpg",
+    "meta": {
+      "sign": "Taurus, Libra",
+      "planet": "Venus",
+      "element": "Water",
+      "chakra": "Heart"
+    },
+    "healing": "Rose quartz draws new love, keeps family ties together and nutures friendship. The presence of rose quartz in your home brings emotional, physical and spiritual healing. Rose quartz in the workplace can be sensed as it controls disagreements and personal conflicts.",
+    "mining": "•Brazil •India •Madagascar •USA",
+    "physical": {
+      "hardness": 7,
+      "composition": "Silicon Dioxide",
+      "family": "Quartz",
+      "luster": "Vitreous"
+    }
   }
 ]
