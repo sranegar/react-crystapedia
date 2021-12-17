@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.467c0e40.css",
-    "main.js": "./static/js/main.66454cb2.js",
+    "main.css": "./static/css/main.45f13c49.css",
+    "main.js": "./static/js/main.08f1a9ab.js",
     "static/js/787.37ed7735.chunk.js": "./static/js/787.37ed7735.chunk.js",
+    "static/media/earth.jpeg": "./static/media/earth.346e6eb8882d4c7b0286.jpeg",
+    "static/media/Genos-VariableFont_wght.ttf": "./static/media/Genos-VariableFont_wght.ea28e57311cbcd332c3e.ttf",
+    "static/media/TitilliumWeb-Regular.ttf": "./static/media/TitilliumWeb-Regular.522ebad20fa0808ac284.ttf",
     "static/media/bgresize.jpg": "./static/media/bgresize.1c2c271bfb21ff31f9a9.jpg",
     "index.html": "./index.html",
-    "main.467c0e40.css.map": "./static/css/main.467c0e40.css.map",
-    "main.66454cb2.js.map": "./static/js/main.66454cb2.js.map",
+    "main.45f13c49.css.map": "./static/css/main.45f13c49.css.map",
+    "main.08f1a9ab.js.map": "./static/js/main.08f1a9ab.js.map",
     "787.37ed7735.chunk.js.map": "./static/js/787.37ed7735.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.467c0e40.css",
-    "static/js/main.66454cb2.js"
+    "static/css/main.45f13c49.css",
+    "static/js/main.08f1a9ab.js"
   ]
 }
