@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sranegar/react-crystapedia.git/static/css/main.073c9b0a.css",
+    "main.js": "/sranegar/react-crystapedia.git/static/js/main.f92591bc.js",
+    "static/js/787.37ed7735.chunk.js": "/sranegar/react-crystapedia.git/static/js/787.37ed7735.chunk.js",
+    "static/media/logo.svg": "/sranegar/react-crystapedia.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sranegar/react-crystapedia.git/index.html",
+    "main.073c9b0a.css.map": "/sranegar/react-crystapedia.git/static/css/main.073c9b0a.css.map",
+    "main.f92591bc.js.map": "/sranegar/react-crystapedia.git/static/js/main.f92591bc.js.map",
+    "787.37ed7735.chunk.js.map": "/sranegar/react-crystapedia.git/static/js/787.37ed7735.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f92591bc.js"
+  ]
+}
