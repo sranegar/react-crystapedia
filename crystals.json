@@ -2,7 +2,7 @@
   {
     "name": "Smoky Quartz",
     "purpose": "Cleansing | Clarity | Transformation",
-    "url": "images/smokyquartzresize.jpg",
+    "url": "./images/smokyquartzresize.jpg",
     "meta": {
       "sign": "Libra, Gemini, Cancer",
       "planet": "Sun",
@@ -15,7 +15,7 @@
   {
     "name": "Obsidian",
     "purpose": "Protection | Abundance | Balance",
-    "url": "images/Obsidianresize.jpg",
+    "url": "./images/Obsidianresize.jpg",
     "meta": {
       "sign": "Scorpio, Sagittarius",
       "planet": "Saturn",
@@ -28,7 +28,7 @@
   {
     "name": "Malachite",
     "purpose": "Peace | Clarity | Love",
-    "url": "images/malachite01.jpg",
+    "url": "./images/malachite01.jpg",
     "meta": {
       "sign": "Libra, Scorpio, Virgo",
       "planet": "Venus",
@@ -41,7 +41,7 @@
   {
     "name": "Tigers Eye",
     "purpose": "Courage | Power | Protection",
-    "url": "images/tigerseyeresize.jpg",
+    "url": "./images/tigerseyeresize.jpg",
     "meta": {
       "sign": "Leo, Aries",
       "planet": "Mars",
@@ -54,7 +54,7 @@
   {
     "name": "Lapis Lazuli",
     "purpose": "Wisdom | Intuition | Imagination",
-    "url": "images/lazuliresize.jpg",
+    "url": "./images/lazuliresize.jpg",
     "meta": {
       "sign": "Cancer, Scorpio",
       "planet": "Pluto",

@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/react-crystapedia/static/css/main.5fc6a99a.css",
-    "main.js": "/react-crystapedia/static/js/main.8dc20f0f.js",
-    "static/js/787.37ed7735.chunk.js": "/react-crystapedia/static/js/787.37ed7735.chunk.js",
-    "index.html": "/react-crystapedia/index.html",
-    "main.5fc6a99a.css.map": "/react-crystapedia/static/css/main.5fc6a99a.css.map",
-    "main.8dc20f0f.js.map": "/react-crystapedia/static/js/main.8dc20f0f.js.map",
-    "787.37ed7735.chunk.js.map": "/react-crystapedia/static/js/787.37ed7735.chunk.js.map"
+    "main.css": "./static/css/main.725ec076.css",
+    "main.js": "./static/js/main.e92132db.js",
+    "static/js/787.37ed7735.chunk.js": "./static/js/787.37ed7735.chunk.js",
+    "static/media/bgresize.jpg": "./static/media/bgresize.1c2c271bfb21ff31f9a9.jpg",
+    "index.html": "./index.html",
+    "main.725ec076.css.map": "./static/css/main.725ec076.css.map",
+    "main.e92132db.js.map": "./static/js/main.e92132db.js.map",
+    "787.37ed7735.chunk.js.map": "./static/js/787.37ed7735.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fc6a99a.css",
-    "static/js/main.8dc20f0f.js"
+    "static/css/main.725ec076.css",
+    "static/js/main.e92132db.js"
   ]
 }
