@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Smoky Quartz",
+    "purpose": "Cleansing | Clarity | Transformation",
+    "url": "images/smokyquartzresize.jpg",
+    "meta": {
+      "sign": "Libra, Gemini, Cancer",
+      "planet": "Sun",
+      "element": "Air",
+      "chakra": "Crown"
+    },
+    "healing": "It’s the perfect stone for people who constantly find themselves with a wandering mind and an inability to focus. Smoky Quartz is here to assist in not only clearing your mind but to allow you to be more level headed.",
+    "mining": "•Africa •Australia •Switzerland •USA •Brazil"
+  },
+  {
+    "name": "Obsidian",
+    "purpose": "Protection | Abundance | Balance",
+    "url": "images/Obsidianresize.jpg",
+    "meta": {
+      "sign": "Scorpio, Sagittarius",
+      "planet": "Saturn",
+      "element": "Earth",
+      "chakra": "Root"
+    },
+    "healing": "This stone has powerful grounding frequencies and will heavily assist in psychic protection when needed, sealing the aura and removing energetic attachments. This protective shield enables one to go back into past lives for healing and to work on ancestral and family lines.",
+    "mining": "•USA •Japan •Hungary •Mexico •Iceland"
+  },
+  {
+    "name": "Malachite",
+    "purpose": "Peace | Clarity | Love",
+    "url": "images/malachite01.jpg",
+    "meta": {
+      "sign": "Libra, Scorpio, Virgo",
+      "planet": "Venus",
+      "element": "Earth",
+      "chakra": "Heart."
+    },
+    "healing": "Absorbs negative energies and pollutants from the atmosphere and body. Encourages risk-taking and change, breaks unwanted ties and outworn patterns, and teaches how to take responsibility for one's actions.",
+    "mining": "•Zambia •Mexico •Gabon •Congo"
+  },
+  {
+    "name": "Tigers Eye",
+    "purpose": "Courage | Power | Protection",
+    "url": "images/tigerseyeresize.jpg",
+    "meta": {
+      "sign": "Leo, Aries",
+      "planet": "Mars",
+      "element": "Fire",
+      "chakra": "Solar Plexus"
+    },
+    "healing": "It is believed that the Tigers Eye’s vigor helps its bearer to break free from the latches of sorrow and resentment and eventually pushes you to positivity. It is also very effective for those who feel like they are going nowhere.",
+    "mining": "•USA •China •Namibia •South Africa"
+  },
+  {
+    "name": "Lapis Lazuli",
+    "purpose": "Wisdom | Intuition | Imagination",
+    "url": "images/lazuliresize.jpg",
+    "meta": {
+      "sign": "Cancer, Scorpio",
+      "planet": "Pluto",
+      "element": "Water",
+      "chakra": "Heart"
+    },
+    "healing": "The energy of the Lapis Lazuli meaning will help you discover your authentic self when you connect with its deep well of wisdom. By boosting your intuition and expanding your mental awareness, the Lapis Lazuli crystal meaning shows you how to access the knowledge and power you have within you.",
+    "mining": "•Northeast Afghanistan •Russia •Chile"
+  }
+]
