@@ -1,5 +1,145 @@
 [
   {
+  "name": "Amethyst",
+  "purpose": "Inner Peace | Purification | Psychic Abilities",
+  "url": "./images/amethyst.jpg",
+  "meta": {
+    "sign": "Capricorn, Aquarius",
+    "planet": "Jupiter, Neptune",
+    "element": "Air, Water",
+    "chakra": "Third Eye, Crown"
+  },
+  "healing": "Amethyst is a natural tranquiliser, it relieves stress and strain, soothes irritability, balances mood swings, dispels anger, rage, fear and anxiety. Alleviates sadness and grief, and dissolves negativity. Amethyst activates spiritual awareness, opens intuition and enhances psychic abilities.",
+  "mining": "•Africa •Bolivia •Russia •USA •Brazil •Canada",
+  "physical": {
+    "hardness": 7,
+    "composition": "Silicon Dioxide",
+    "family": "Quartz",
+    "luster": "Vitreous"
+  },
+  "color": "#5b4078"
+},
+{
+  "name": "Lapis Lazuli",
+  "purpose": "Wisdom | Intuition | Power",
+  "url": "./images/lazuliresize.jpg",
+  "meta": {
+    "sign": "Cancer, Scorpio",
+    "planet": "Pluto",
+    "element": "Water",
+    "chakra": "Heart"
+  },
+  "healing": "The energy of the Lapis Lazuli meaning will help you discover your authentic self when you connect with its deep well of wisdom. By boosting your intuition and expanding your mental awareness, the Lapis Lazuli crystal meaning shows you how to access the knowledge and power you have within you.",
+  "mining": "•Northeast Afghanistan •Russia •Chile",
+  "physical": {
+    "hardness": "5-5.5",
+    "composition": "Lazurite, Calcite, Pyrite",
+    "family": "Rock",
+    "luster": "Greasy, Vitreous"
+  },
+  "color": "#1E3489"
+},
+{
+  "name": "Malachite",
+  "purpose": "Peace | Clarity | Love",
+  "url": "./images/malachite01.jpg",
+  "meta": {
+    "sign": "Libra, Scorpio, Virgo",
+    "planet": "Venus",
+    "element": "Earth",
+    "chakra": "Heart."
+  },
+  "healing": "Malachite absorbs negative energies and pollutants from the atmosphere and body. It encourages risk-taking and change, breaks unwanted ties and outworn patterns, and teaches how to take responsibility for one's actions.",
+  "mining": "•Zambia •Mexico •Gabon •Congo",
+  "physical": {
+    "hardness": "3.5-4",
+    "composition": "Carbonate Hydroxide",
+    "family": "Hydrated Carbonate",
+    "luster": "Silky, Earthy"
+  },
+  "color": "#047252"
+},
+{
+  "name": "Citrine",
+  "purpose": "Determination | Wealth | Alertness",
+  "url": "./images/citrine.jpg",
+  "meta": {
+    "sign": "Cancer, Aries, Leo, Libra",
+    "planet": "Mars",
+    "element": "Fire",
+    "chakra": "Solar Plexus, Sacral"
+  },
+  "healing": "Citrine energises every level of life.  It attracts wealth, prosperity and success.  It imparts joy, wonder, delight and enthusiasm. Citrine promotes motivation, activates creativity and encourages self-expression.",
+  "mining": "•Russia •Brazil •Sri Lanka •North Carolina •Europe",
+  "physical": {
+    "hardness": 7,
+    "composition": "Silicon Dioxide",
+    "family": "Quartz",
+    "luster": "Vitreous"
+  },
+  "color": "#d1a20d"
+},
+{
+  "name": "Tigers Eye",
+  "purpose": "Courage | Power | Protection",
+  "url": "./images/tigerseyeresize.jpg",
+  "meta": {
+    "sign": "Leo, Aries",
+    "planet": "Mars",
+    "element": "Fire",
+    "chakra": "Solar Plexus"
+  },
+  "healing": "It is believed that the Tigers Eyes vigor helps its bearer to break free from the latches of sorrow and resentment and eventually pushes you to positivity. It is also very effective for those who feel like they are going nowhere.",
+  "mining": "•USA •China •Namibia •South Africa",
+  "physical": {
+    "hardness": 7,
+    "composition": "Silicon Dioxide",
+    "family": "Chalcedony Mineral",
+    "luster": "Silky"
+  },
+  "color": "#CC7015"
+},
+{
+  "name": "Rose Quartz",
+  "purpose": "Kindness | Patience | Romance",
+  "url": "./images/rose.jpg",
+  "meta": {
+    "sign": "Taurus, Libra",
+    "planet": "Venus",
+    "element": "Water",
+    "chakra": "Heart"
+  },
+  "healing": "Rose quartz draws new love, keeps family ties together and nutures friendship. The presence of rose quartz in your home brings emotional, physical and spiritual healing. Rose quartz in the workplace can be sensed as it controls disagreements and personal conflicts.",
+  "mining": "•Brazil •India •Madagascar •USA",
+  "physical": {
+    "hardness": 7,
+    "composition": "Silicon Dioxide",
+    "family": "Quartz",
+    "luster": "Vitreous"
+  },
+  "color": "#c45582"
+},
+  {
+  "name": "Red Jasper",
+  "purpose": "Grounding | Stamina | Protection",
+  "url": "./images/redJasper.jpg",
+  "meta": {
+    "sign": "Aries, Scorpio, Virgo",
+    "planet": "Mercury, Mars",
+    "element": "Fire",
+    "chakra": "Root, Sacral"
+  },
+  "healing": "Red jasper stone helps you act on your passions, behaving like a shot of adrenaline for your root chakra’s energy. It’s believed to inspire a more joyful, positive attitude by waking up and energising areas of your body that are inactive and sluggish. It brings motivation, inspiration, and energy to reach your full potential.",
+  "mining": "•Australia •Brazil •Russia •India •Indonesia •India •Madagascar",
+  "physical": {
+    "hardness": "6.5-7",
+    "composition": "Silicon Dioxide",
+    "family": "Quartz",
+    "luster": "Opaque"
+  },
+  "color": "#950c0c"
+},
+  {
     "name": "Smoky Quartz",
     "purpose": "Cleansing | Clarity | Transformation",
     "url": "./images/smokyquartzresize.jpg",
@@ -37,86 +177,6 @@
       "family": "Igneous Glass",
       "luster": "Vitreous"
     },
-    "color": "#3C3B40"
-  },
-  {
-    "name": "Malachite",
-    "purpose": "Peace | Clarity | Love",
-    "url": "./images/malachite01.jpg",
-    "meta": {
-      "sign": "Libra, Scorpio, Virgo",
-      "planet": "Venus",
-      "element": "Earth",
-      "chakra": "Heart."
-    },
-    "healing": "Malachite absorbs negative energies and pollutants from the atmosphere and body. It encourages risk-taking and change, breaks unwanted ties and outworn patterns, and teaches how to take responsibility for one's actions.",
-    "mining": "•Zambia •Mexico •Gabon •Congo",
-    "physical": {
-      "hardness": "3.5-4",
-      "composition": "Carbonate Hydroxide",
-      "family": "Hydrated Carbonate",
-      "luster": "Silky, Earthy"
-    },
-    "color": "#047252"
-  },
-  {
-    "name": "Tigers Eye",
-    "purpose": "Courage | Power | Protection",
-    "url": "./images/tigerseyeresize.jpg",
-    "meta": {
-      "sign": "Leo, Aries",
-      "planet": "Mars",
-      "element": "Fire",
-      "chakra": "Solar Plexus"
-    },
-    "healing": "It is believed that the Tigers Eyes vigor helps its bearer to break free from the latches of sorrow and resentment and eventually pushes you to positivity. It is also very effective for those who feel like they are going nowhere.",
-    "mining": "•USA •China •Namibia •South Africa",
-    "physical": {
-      "hardness": 7,
-      "composition": "Silicon Dioxide",
-      "family": "Chalcedony Mineral",
-      "luster": "Silky"
-    },
-    "color": "#AF5708"
-  },
-  {
-    "name": "Lapis Lazuli",
-    "purpose": "Wisdom | Intuition | Power",
-    "url": "./images/lazuliresize.jpg",
-    "meta": {
-      "sign": "Cancer, Scorpio",
-      "planet": "Pluto",
-      "element": "Water",
-      "chakra": "Heart"
-    },
-    "healing": "The energy of the Lapis Lazuli meaning will help you discover your authentic self when you connect with its deep well of wisdom. By boosting your intuition and expanding your mental awareness, the Lapis Lazuli crystal meaning shows you how to access the knowledge and power you have within you.",
-    "mining": "•Northeast Afghanistan •Russia •Chile",
-    "physical": {
-      "hardness": "5-5.5",
-      "composition": "Lazurite, Calcite, Pyrite",
-      "family": "Rock",
-      "luster": "Greasy, Vitreous"
-    },
-    "color": "#1E3489"
-  },
-  {
-    "name": "Rose Quartz",
-    "purpose": "Kindness | Patience | Romance",
-    "url": "./images/rose-quartz.jpg",
-    "meta": {
-      "sign": "Taurus, Libra",
-      "planet": "Venus",
-      "element": "Water",
-      "chakra": "Heart"
-    },
-    "healing": "Rose quartz draws new love, keeps family ties together and nutures friendship. The presence of rose quartz in your home brings emotional, physical and spiritual healing. Rose quartz in the workplace can be sensed as it controls disagreements and personal conflicts.",
-    "mining": "•Brazil •India •Madagascar •USA",
-    "physical": {
-      "hardness": 7,
-      "composition": "Silicon Dioxide",
-      "family": "Quartz",
-      "luster": "Vitreous"
-    },
-    "color": "#C68583"
+    "color": "#1D1D1E"
   }
 ]

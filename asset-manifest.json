@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.9de597a4.css",
-    "main.js": "./static/js/main.6e54b3b1.js",
+    "main.css": "./static/css/main.55044503.css",
+    "main.js": "./static/js/main.324a24a4.js",
     "static/js/787.37ed7735.chunk.js": "./static/js/787.37ed7735.chunk.js",
     "static/media/earth.jpeg": "./static/media/earth.346e6eb8882d4c7b0286.jpeg",
     "static/media/lazuliresize.jpg": "./static/media/lazuliresize.a5aff80e26a510a21ad4.jpg",
     "static/media/Obsidianresize.jpg": "./static/media/Obsidianresize.c21a363983e34127f60b.jpg",
     "static/media/smokyquartzresize.jpg": "./static/media/smokyquartzresize.081b46985109b126736b.jpg",
     "static/media/Megrim-Regular.ttf": "./static/media/Megrim-Regular.eefcad8b38446402acd8.ttf",
+    "static/media/citrine.jpg": "./static/media/citrine.e18d4bccf819481cb694.jpg",
+    "static/media/redJasper.jpg": "./static/media/redJasper.2b0638df090ef61361b7.jpg",
     "static/media/rose-quartz.jpg": "./static/media/rose-quartz.bbfef3b6adf12525c210.jpg",
-    "static/media/bgresize.jpg": "./static/media/bgresize.1c2c271bfb21ff31f9a9.jpg",
+    "static/media/amethyst.jpg": "./static/media/amethyst.306d82bd2f885d108756.jpg",
+    "static/media/bg.jpg": "./static/media/bg.00698e146be2fa5a83e4.jpg",
     "static/media/tigerseyeresize.jpg": "./static/media/tigerseyeresize.4e5fa5e86db647f08a13.jpg",
     "index.html": "./index.html",
-    "main.9de597a4.css.map": "./static/css/main.9de597a4.css.map",
-    "main.6e54b3b1.js.map": "./static/js/main.6e54b3b1.js.map",
+    "main.55044503.css.map": "./static/css/main.55044503.css.map",
+    "main.324a24a4.js.map": "./static/js/main.324a24a4.js.map",
     "787.37ed7735.chunk.js.map": "./static/js/787.37ed7735.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9de597a4.css",
-    "static/js/main.6e54b3b1.js"
+    "static/css/main.55044503.css",
+    "static/js/main.324a24a4.js"
   ]
 }
