@@ -9,14 +9,15 @@
       "element": "Air",
       "chakra": "Crown"
     },
-    "healing": "Smoky quartz the perfect stone for people who constantly find themselves with a wandering mind and an inability to focus. Smoky Quartz is here to assist in not only clearing your mind but to allow you to be more level headed.",
+    "healing": "Smoky quartz is the perfect stone for people who constantly find themselves with a wandering mind and an inability to focus. Smoky Quartz is here to assist in not only clearing your mind but to allow you to be more level headed.",
     "mining": "•Africa •Australia •Switzerland •USA •Brazil",
     "physical": {
       "hardness": 7,
       "composition": "Silicon Dioxide",
       "family": "Quartz",
       "luster": "Vitreous"
-    }
+    },
+    "color": "#301E15"
   },
   {
     "name": "Obsidian",
@@ -35,7 +36,8 @@
       "composition": "70 %Silicon Dioxide",
       "family": "Igneous Glass",
       "luster": "Vitreous"
-    }
+    },
+    "color": "#3C3B40"
   },
   {
     "name": "Malachite",
@@ -54,7 +56,8 @@
       "composition": "Carbonate Hydroxide",
       "family": "Hydrated Carbonate",
       "luster": "Silky, Earthy"
-    }
+    },
+    "color": "#047252"
   },
   {
     "name": "Tigers Eye",
@@ -73,7 +76,8 @@
       "composition": "Silicon Dioxide",
       "family": "Chalcedony Mineral",
       "luster": "Silky"
-    }
+    },
+    "color": "#AF5708"
   },
   {
     "name": "Lapis Lazuli",
@@ -92,7 +96,8 @@
       "composition": "Lazurite, Calcite, Pyrite",
       "family": "Rock",
       "luster": "Greasy, Vitreous"
-    }
+    },
+    "color": "#1E3489"
   },
   {
     "name": "Rose Quartz",
@@ -111,6 +116,7 @@
       "composition": "Silicon Dioxide",
       "family": "Quartz",
       "luster": "Vitreous"
-    }
+    },
+    "color": "#C68583"
   }
 ]
