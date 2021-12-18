@@ -20,20 +20,20 @@
   },
   {
     "name": "Obsidian",
-    "purpose": "Protection | Abundance | Balance",
+    "purpose": "Protection | Grounding | Balance",
     "url": "./images/Obsidianresize.jpg",
     "meta": {
       "sign": "Scorpio, Sagittarius",
       "planet": "Saturn",
-      "element": "Earth",
+      "element": "Earth, Fire",
       "chakra": "Root"
     },
     "healing": "Obsidian has powerful grounding frequencies and will heavily assist in psychic protection when needed, sealing the aura and removing energetic attachments. This protective shield enables one to go back into past lives for healing and to work on ancestral and family lines.",
     "mining": "•USA •Japan •Hungary •Mexico •Iceland",
     "physical": {
-      "hardness": 7,
-      "composition": "Silicon Dioxide",
-      "family": "Quartz",
+      "hardness": "5-5.5",
+      "composition": "70 %Silicon Dioxide",
+      "family": "Igneous Glass",
       "luster": "Vitreous"
     }
   },
@@ -50,10 +50,10 @@
     "healing": "Malachite absorbs negative energies and pollutants from the atmosphere and body. It encourages risk-taking and change, breaks unwanted ties and outworn patterns, and teaches how to take responsibility for one's actions.",
     "mining": "•Zambia •Mexico •Gabon •Congo",
     "physical": {
-      "hardness": 7,
-      "composition": "Silicon Dioxide",
-      "family": "Quartz",
-      "luster": "Vitreous"
+      "hardness": "3.5-4",
+      "composition": "Carbonate Hydroxide",
+      "family": "Hydrated Carbonate",
+      "luster": "Silky, Earthy"
     }
   },
   {
@@ -71,13 +71,13 @@
     "physical": {
       "hardness": 7,
       "composition": "Silicon Dioxide",
-      "family": "Quartz",
-      "luster": "Vitreous"
+      "family": "Chalcedony Mineral",
+      "luster": "Silky"
     }
   },
   {
     "name": "Lapis Lazuli",
-    "purpose": "Wisdom | Intuition | Imagination",
+    "purpose": "Wisdom | Intuition | Power",
     "url": "./images/lazuliresize.jpg",
     "meta": {
       "sign": "Cancer, Scorpio",
@@ -88,10 +88,10 @@
     "healing": "The energy of the Lapis Lazuli meaning will help you discover your authentic self when you connect with its deep well of wisdom. By boosting your intuition and expanding your mental awareness, the Lapis Lazuli crystal meaning shows you how to access the knowledge and power you have within you.",
     "mining": "•Northeast Afghanistan •Russia •Chile",
     "physical": {
-      "hardness": 7,
-      "composition": "Silicon Dioxide",
-      "family": "Quartz",
-      "luster": "Vitreous"
+      "hardness": "5-5.5",
+      "composition": "Lazurite, Calcite, Pyrite",
+      "family": "Rock",
+      "luster": "Greasy, Vitreous"
     }
   },
   {
